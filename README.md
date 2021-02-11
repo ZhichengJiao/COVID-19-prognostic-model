@@ -1,9 +1,6 @@
 # COVID-19-prognostic-model
-# COVID-19-prognostic-model
 
 ## Prognostication of COVID-19 patients presenting to the emergency department
-
-This repository is an easy-to-run prognostication of COVID-19 patients presenting to the emergency department demo.
 
 ## Prerequisites
 PyTorch 1.3.0
